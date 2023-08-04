@@ -27,18 +27,15 @@
 
 		"os/plugins/rgraph/rgraph.js",
 		"os/plugins/rgraph/attacks_monitor.js",
-		"os/plugins/rgraph/rgraph_json.txt",
 		"os/plugins/rgraph/jit-yc.js",
 		"os/plugins/rgraph/process-list.config.example.js",
 
 		"os/plugins/process-list/process-list.js",
 		"os/plugins/process-list/process-list_css.js",
-		"os/plugins/process-list/process-list_json.txt",
 		"os/plugins/process-list/process-list.config.example.js",
 		
 		"os/plugins/bitpacker/bp_lib.js",
 		"os/plugins/bitpacker/bitpacker.js",
-		"os/plugins/bitpacker/bitpacker_json.txt"
 	],
 	"filesToClean": [
 	],
