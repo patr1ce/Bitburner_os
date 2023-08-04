@@ -24,7 +24,6 @@
 		"os/plugins/api_adapter.js",
 
 		"os/plugins/repl/repl.js",
-		"os/plugins/repl/repl_json.txt",
 
 		"os/plugins/rgraph/rgraph.js",
 		"os/plugins/rgraph/attacks_monitor.js",
